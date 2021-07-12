@@ -1,0 +1,17 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+.pic {
+  width: 400px;
+  height: 300px;
+}
+
+.train__list {
+  list-style: none;
+}
+
+.train__heading {
+  font-family: "DM sans";
+  font-weight: 100px;
+}
